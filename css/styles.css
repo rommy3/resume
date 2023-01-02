@@ -1,6 +1,5 @@
 .content{
-padding-left: 1%;
-padding-right: 1%;
+padding-left: 2%;
 padding-bottom: 50px;
 width: 80%;
 }
@@ -19,11 +18,11 @@ padding: 30px;
 }
 
 .dot-lines{
-font-size: 18px;
+font-size: 118%;
 line-height: 1.5;
 }
 .r-text{
-font-size: 130%;
+font-size: 110%;
 margin: 0;
 color: #1b3152;
 }
@@ -67,16 +66,18 @@ margin-top: 15px;
 .intro{
 line-height: 2.5;
 margin: 0 auto 0 0;
-font-size: 18px;
+font-size: 118%;
 }
-
+.edu{
+font-size: 118%;
+}
 .point_1{
 padding: 20px 0 0 0;
-font-size: 110%;
+font-size: 118%;
 }
 .years{
 margin-left: 5px;
-font-size: 15px;
+font-size: 118%;
 }
 .icons{
 width:1%;
@@ -95,13 +96,16 @@ color: black;
 h1{
 padding-top: 20px;
 color: #10148d;
+margin:0 0 10px ;
+
 }
 h3{
-font-size: 23px;;
+font-size: 140%;
 color: #7a0303;
 }
 h4{
 color: #b70505;
+margin:0;
 }
 
 .achivements{
@@ -115,10 +119,12 @@ margin: 0;
 .rhcsa a:hover{
 color: #0320fc;
 }
-.Experience{
+.experience{
 line-height: 1.5;
 }
-
+.experience h4{
+font-size: 118%
+}
 .contact{
 background-color: #11cdd4;
 text-align: center;
@@ -136,7 +142,7 @@ transition: transform 250ms ease-out;
 
 }
 .whatsapp_num{
-font-size: 18px;
+font-size: 118%;
 padding-left: 5px;
 }
 
